@@ -23,7 +23,7 @@ First, make sure you have cloned the project from Github:
 git clone http://github.com/mirego/csgames17-competition.git
 ```
 
-Then, in Android Studio: 
+Then, in Android Studio:
 
 - Select **Import project (Eclipse, ADT, Gradle, etc.)** in the Welcome Screen, go find the `android` folder in the repository you just cloned, and click **OK**.
 - Once the project is open, click on **Sync Project with Gradle Files** in the main toolbar (or navigate to `Tools -> Android` in the application menu and select the same option).

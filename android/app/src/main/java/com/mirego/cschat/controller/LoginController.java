@@ -21,6 +21,8 @@ public class LoginController {
         return chatService.login(new LoginRequest(username, password));
     }
 
+
+
     public void logout() {
         storageService.clearUserId();
     }
